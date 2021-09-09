@@ -22,28 +22,31 @@ _You **can** combine them_
   
 * Social Media Safety
 	* Goals
-	* Test
-  
-  
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+	* To Teach students what information to avoid sharing online
+		*
+	
+	
+	
+* To Teach students what information to avoid sharing online
+	* Students will be able to differentiate what information is acceptable to post online.
+		* Students are able to identify x/y posts with personal information.
 
-  As Kanye West said:
+* To Teach students learn what Cyberstalking is
+	* Students will be able correctly identify instances of Cyberstalking
+		* Students will be able to identify x/y scenarios of Cyberstalking.
+	* Students will be able to correctly report instances of Cyberstalking
+		* Students can correctly navigate the steps of reporting a cyber stalker. 
 
-> We're living the future so
-> the present is our past.
-  
-  I think you should use an
-`<addr>` element here instead.
-  
-  
-  
-  
-  
-  
-  
+To Teach students learn what Cyberbullying is
+	Students will be able correctly identify instances of Cyberbullying
+		Students will be able to identify x/y scenarios of Cyberbullying.
+	Students will be able to correctly report instances of Cyberbullying
+		Students can correctly navigate the steps of reporting a cyber bully.
+
+To Teach students about Privacy options on Social Media
+	Students will be able to correctly identify settings that will increase privacy. 
+		Students can correctly navigate and enable settings that are for privacy. 
+	Students will be able to correctly identify fraudulent friend requests. 
+		Students are able to identify x/y requests that are fake.
   
   ~~Finished!~~
