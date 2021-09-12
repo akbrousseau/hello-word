@@ -11,4 +11,4 @@ Hello, My name is Adam. This is for a Lab.
 |Phishing Course Development| Weeks 10 - 12 | 2 Weeks |
 |Malware Course Development| Weeks 12 - 14 | 2 Weeks |
 |2FA Course Development| Weeks 14 - 16 | 2 Weeks |
-|Project Review and Deployment| Weeks 16 - 18 | 1 to 2 Weeks |
+|Project Review and Deployment| Weeks 16 - 18 | 1 - 2 Weeks |
