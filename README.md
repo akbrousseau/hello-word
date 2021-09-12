@@ -5,7 +5,7 @@ Hello, My name is Adam. This is for a Lab.
 
 |Task Name  | Time Slot | Estimated Time to Complete |
 |-------------------|---------|---------------------------|
-|Research and Template Development| Weeks 4 - 6 | 2 Weeks |
+|Research and Template Development| Weeks 4 - 6 | 1 - 2 Weeks |
 |Password Safety Course Development| Weeks 6 - 8 | 2 Weeks |
 |Social Media Safety Course Development| Weeks 8 - 10 | 2 Weeks |
 |Phishing Course Development| Weeks 10 - 12 | 2 Weeks |
