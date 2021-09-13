@@ -1,5 +1,5 @@
 ## Project Timeline
-The main portion project will consist of five main sprints and two smaller sprints. The project will kick off with researching course structure to ensure the best learning experience and that students in the middle school grade range 6-8 are engaged with the content. We will create a template in this first spring that will be adaptable to each course. This is estimated to take one to two weeks. The main 5 core topics will last two weeks per topic and the final weeks of the project will be for corrections and small changes. 
+This project will consist of five main sprints and two smaller sprints. The project will kick off with researching styles of course structure to ensure the best learning experience and that students in the middle school grade range 6-8 are engaged with the content. We will create a template in this first sprint that will be adaptable to each course topic to allow for ease of use. This is estimated to take one to two weeks. The main 5 core topics will last two weeks per topic and the final weeks of the project will be for corrections and small changes. 
 
 |Task Name  | Time Slot | Estimated Time to Complete | Estimated Delivery Date |
 |-------------------|---------|---------------------------|---------------------------|
