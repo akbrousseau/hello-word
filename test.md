@@ -1,5 +1,5 @@
 test
-This resource contains a great template for building a lesson plan. This resource also contains helpful information advantages of creating lesson plans, different learning techniques and styles. This resource was also Identified by CJ. <b>
+This resource contains a great template for building a lesson plan. This resource also contains helpful information advantages of creating lesson plans, different learning techniques and styles. This resource was also Identified by CJ. <br>
 https://www.classcraft.com/blog/how-to-build-a-great-lesson-plan-with-a-template/
 
 Provides helpful information about Think-Pair-Share strategies as well as guidance on when this technique should be used. There is a helpful 5 minute video that explains more of Think Pair Share that was very informative.
