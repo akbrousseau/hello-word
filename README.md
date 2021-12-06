@@ -1,6 +1,6 @@
 # Topic: Prevention
 ## Module Title: Malware Prevention
-### Module Time: 1 hour (An Average Class Time)
+### Module Time: 1 hour (An average class period)
 ### Assumptions: Students should have a basic understanding of the use of computers. 
 ### Module Description: Students will learn a high level overview of Malware, the dangers of being infected by it and how to prevent becoming infected. 
 ### Materials: PowerPoint or Access to Google Slides. 
