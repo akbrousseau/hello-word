@@ -1,49 +1,28 @@
-# hello-word
-For the GitHub Lab
+# Topic: Prevention
+## Module Title: Malware Prevention
+### Module Time: 1 hour (An Average Class Time)
+### Assumptions: Students should have a basic understanding of the use of computers. 
+### Module Description: Students will learn a high level overview of Malware, the dangers of being infected by it and how to prevent becoming infected. 
+### Materials: PowerPoint or Access to Google Slides. 
+### Definitions:
+* Virus
+* Malware
+* Adware
+* Ransomeware 
+* Spyware
+* Executable
+* Antivirus
 
-Hello, My name is Adam. This is for a Lab. 
+### Learning Objectives:
+By completing this course students can be expect to be able to: 
+* <strong>Understand</strong> what Malware and computer viruses are. 
+* <strong>Differentiate</strong> the differences between a virus and malware.
+* <strong>Explain</strong> the personal consequences of becoming infected by a malware or virus. 
+* <strong>Understand</strong> the effects that malware and computer viruses have on computers. 
+* <strong>Identify</strong> certain types of malware and their dangers. 
+* <strong>Implement</strong> the use of anti-virus software to prevent being infected. 
 
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-  
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
-* Social Media Safety
-	* Goals
-	* To Teach students what information to avoid sharing online
-		* Students will be able to differentiate what information is acceptable to post online.
-			* Students are able to identify x/y posts with personal information.
-
-	* To Teach students learn what Cyberstalking is
-		* Students will be able correctly identify instances of Cyberstalking
-			* Students will be able to identify x/y scenarios of Cyberstalking.
-		* Students will be able to correctly report instances of Cyberstalking
-			* Students can correctly navigate the steps of reporting a cyber stalker. 
-
-	* To Teach students learn what Cyberbullying is
-		* Students will be able correctly identify instances of Cyberbullying
-			* Students will be able to identify x/y scenarios of Cyberbullying.
-		* Students will be able to correctly report instances of Cyberbullying
-			* Students can correctly navigate the steps of reporting a cyber bully.
-
-	* To Teach students about Privacy options on Social Media
-		* Students will be able to correctly identify settings that will increase privacy. 
-			* Students can correctly navigate and enable settings that are for privacy. 
-		* Students will be able to correctly identify fraudulent friend requests. 
-			* Students are able to identify x/y requests that are fake.
-
-  ~~Finished!~~
-	
-	test
+#### Class Discovery (Teacher):
+What type of groups does your class work well in?
+What size of groups can you divide your class into?
+What ways do your students learn best?
