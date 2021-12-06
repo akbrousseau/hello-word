@@ -24,6 +24,6 @@ By completing this course students can be expect to be able to:
 * <strong>Understand</strong> the purpose of anti-virus software.
 
 #### Class Discovery (Teacher):
-What type of groups does your class work well in?
-What size of groups can you divide your class into?
-What ways do your students learn best?
+What type of groups does your class work well in? <br>
+What size of groups can you divide your class into? <br>
+What ways do your students learn best? <br>
