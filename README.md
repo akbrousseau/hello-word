@@ -17,10 +17,11 @@
 By completing this course students can be expect to be able to: 
 * <strong>Understand</strong> what Malware and computer viruses are. 
 * <strong>Differentiate</strong> the differences between a virus and malware.
-* <strong>Explain</strong> the personal consequences of becoming infected by a malware or virus. 
 * <strong>Understand</strong> the effects that malware and computer viruses have on computers. 
+* <strong>Explain</strong> the personal consequences of becoming infected by a malware or virus. 
 * <strong>Identify</strong> certain types of malware and their dangers. 
-* <strong>Implement</strong> the use of anti-virus software to prevent being infected. 
+* <strong>Implement</strong> strategies to prevent themselves from becoming a target of malware. 
+* <strong>Understand</strong> the purpose of anti-virus software.
 
 #### Class Discovery (Teacher):
 What type of groups does your class work well in?
